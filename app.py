@@ -20,7 +20,7 @@ def index():
 def customer_test():
     '''
     data = {}
-    data['name'] = '王小名'
+    data['name'] = '王大名'
     data['gender'] = '男'
     '''
     
